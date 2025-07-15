@@ -20,7 +20,7 @@ Created as part of the CSC222 Game Development mini-project (2024 Edition).
 
 Requires Python 3.x and Pygame installed
 
-🗂️ Folder Structure
+## 🗂️ Folder Structure
 
 breakout-game/
 ├── main.py
@@ -38,8 +38,10 @@ breakout-game/
 │       └── game_over.wav
 
 
-👨‍💻 Author
-Benison Ebeshi
-2nd-year Computer Science Student
-Federal University of Lafia, Nigeria
+Benison Ebeshi.
+
+2nd-year Computer Science Student.
+
+FULafia
+
 GitHub: @Enjinuity
